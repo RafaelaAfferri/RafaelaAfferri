@@ -27,8 +27,9 @@ Atualmente trabalhando em:
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| 🍞 [GlutenFreeApp](https://github.com/seuusuario/glutenfree-app) | App de receitas e locais seguros para celíacos | React, Node.js, Tailwind |
-| 🎮 [Mansão Ravencroft](https://github.com/seuusuario/mansao-ravencroft) | Jogo 2D de mistério em pixel art | Unity, C# |
+| 🍞 [Glutezy App](https://github.com/orgs/Bitezy-Project/repositories) | App de receitas e locais seguros para celíacos | React, Node.js, Tailwind |
+| 🎮 [Jogo Mansão Ravencroft](https://github.com/RafaelaAfferri/jogo_unity_oficial) | Jogo 2D de mistério em pixel art | Unity, C# |
+| 🎒 [Busca Ativa Escolar](https://github.com/orgs/Busca-Ativa-Escolar/repositories) | Digitalização do Programa Busca Ativa Escolar| Flask, JavaScript, React |
 
 ---
 
