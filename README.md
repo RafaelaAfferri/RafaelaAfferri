@@ -1,41 +1,43 @@
-# 👋 Oi, eu sou a Rafaela!
+# 👋 Hi, I'm Rafaela Afférri
 
-🎓 Estudante de **Ciência da Computação no Insper**  
-💼 Presidente da **Bateria Imperial** e pesquisadora na **UIUC (Illinois)**  
-🚀 Apaixonada por **tecnologia, educação e impacto social**  
+🎓 Studying **Computer Science at Insper (Brazil)**  
+💼 President of **Bateria Imperial**, and Researcher at **UIUC (Illinois)** & **Insper**  
+🚀 Passionate about **technology, education, and social impact**  
 
-Atualmente trabalhando em:
-- 🤖 Chatbot inteligente para o **Hospital Sírio-Libanês** (TCC)
+Currently working on:
+- 🤖 Intelligent chatbot for **Hospital Sírio-Libanês** (Capstone Project)
 
 ---
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=RafaelaAfferri&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
+
 ---
 
-## 🧠 Habilidades
+## 🧠 Skills
 
-**Linguagens:** Python, Java, JavaScript, SQL, C  
+**Soft Skills:** Leadership, Communication, Project Management, Creativity  
+**Languages:** Python, Java, JavaScript, SQL, C  
 **Frameworks:** React, Spring Boot, FastAPI, Flask  
 **DevOps & Cloud:** Docker, AWS, Terraform, CI/CD, Kubernetes  
 **Data & AI:** Pandas, Scikit-Learn, MLflow, DVC  
-**Ferramentas:** Git, Figma, VSCode, Notion, MkDocs  
+**Tools:** Git, Figma, VSCode, Notion, MkDocs  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaAfferri&theme=radical&hide_progress=true)
 
 ---
 
-## 💻 Projetos em destaque
+## 💻 Featured Projects
 
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| 🍞 [Glutezy App](https://github.com/orgs/Bitezy-Project/repositories) | App de receitas e locais seguros para celíacos | React, Node.js, Tailwind |
-| 🎮 [Jogo Mansão Ravencroft](https://github.com/RafaelaAfferri/jogo_unity_oficial) | Jogo 2D de mistério em pixel art | Unity, C# |
-| 🎒 [Busca Ativa Escolar](https://github.com/orgs/Busca-Ativa-Escolar/repositories) | Digitalização do Programa Busca Ativa Escolar| Flask, JavaScript, React |
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🍞 [Glutezy App](https://github.com/orgs/Bitezy-Project/repositories) | Recipe and safe-places app for celiacs | React, Node.js, Tailwind |
+| 🎮 [Mansão Ravencroft Game](https://github.com/RafaelaAfferri/jogo_unity_oficial) | 2D mystery game in pixel art | Unity, C# |
+| 🎒 [Busca Ativa Escolar](https://github.com/orgs/Busca-Ativa-Escolar/repositories) | Digitalization of the *Busca Ativa Escolar* social program | Flask, JavaScript, React |
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-🌐 [LinkedIn](https://www.linkedin.com/in/rafaela-aff%C3%A9rri-de-oliveira/))  
-📧 rafaelaafferri@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/rafaela-aff%C3%A9rri-de-oliveira/)  
+📧 **rafaelaafferri@gmail.com**  
 💬 “Technology, education & rhythm to make an impact.”
-
