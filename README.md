@@ -8,7 +8,7 @@ Atualmente trabalhando em:
 - 🤖 Chatbot inteligente para o **Hospital Sírio-Libanês** (PFE)
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=gustavoribolla&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=RafaelaAfferri&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
 ---
 
 ## 🧠 Habilidades
@@ -19,7 +19,7 @@ Atualmente trabalhando em:
 **Data & AI:** Pandas, Scikit-Learn, MLflow, DVC  
 **Ferramentas:** Git, Figma, VSCode, Notion, MkDocs  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoribolla&theme=radical&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaAfferri&theme=radical&hide_progress=true)
 
 ---
 
