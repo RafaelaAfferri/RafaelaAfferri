@@ -8,7 +8,7 @@ Atualmente trabalhando em:
 - 🤖 Chatbot inteligente para o **Hospital Sírio-Libanês** (PFE)
 
 ---
-![Rafaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula)
+![Rafaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelaAfferri&show_icons=true&theme=dracula)
 ---
 
 ## 🧠 Habilidades
@@ -19,7 +19,7 @@ Atualmente trabalhando em:
 **Data & AI:** Pandas, Scikit-Learn, MLflow, DVC  
 **Ferramentas:** Git, Figma, VSCode, Notion, MkDocs  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaAfferri&layout=compact&theme=dracula)
 
 ---
 
