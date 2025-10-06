@@ -5,7 +5,7 @@
 🚀 Apaixonada por **tecnologia, educação e impacto social**  
 
 Atualmente trabalhando em:
-- 🤖 Chatbot inteligente para o **Hospital Sírio-Libanês** (PFE)
+- 🤖 Chatbot inteligente para o **Hospital Sírio-Libanês** (TCC)
 
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=RafaelaAfferri&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
@@ -34,7 +34,7 @@ Atualmente trabalhando em:
 
 ## 📫 Contato
 
-🌐 [LinkedIn](https://www.linkedin.com/in/rafaela-afférri-oliveira/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/rafaela-aff%C3%A9rri-de-oliveira/))  
 📧 rafaelaafferri@gmail.com  
 💬 “Technology, education & rhythm to make an impact.”
 
