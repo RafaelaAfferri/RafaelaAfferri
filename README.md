@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Rafaela Afférri
 
 🎓 Studying **Computer Science at Insper (Brazil)**  
-💼 President of **Bateria Imperial**, and Researcher at **UIUC (Illinois)** & **Insper**  
+💼 SWE @ **BCG-X**
 🚀 Passionate about **technology, education, and social impact**  
 
-Currently working on:
-- 🤖 Intelligent chatbot for **Hospital Sírio-Libanês** (Capstone Project)
 
 ---
 
