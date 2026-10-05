@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rafaela Afférri
 
 🎓 Studying **Computer Science at Insper (Brazil)**  
-💼 SWE @ **BCG-X**
+💼 SWE @ **PrairieLearn**
 🚀 Passionate about **technology, education, and social impact**  
 
 
